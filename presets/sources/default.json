@@ -1,0 +1,29 @@
+[
+    {
+        "resolution": {
+            "width": {
+                "value": 0,
+                "scale": 1
+            },
+            "height": {
+                "value": 0,
+                "scale": 1
+            }
+        },
+        "position": {
+            "x": {
+                "value": 0,
+                "scale": 1
+            },
+            "y": {
+                "value": 0,
+                "scale": 1
+            }
+        },
+        "colorspace": {
+            "fromspace": "",
+            "tospace": ""
+        },
+        "burn_ins": null
+    }
+]

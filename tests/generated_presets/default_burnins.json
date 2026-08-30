@@ -1,0 +1,105 @@
+{
+    "target": {
+        "resolution": {
+            "width": {
+                "value": 0,
+                "scale": 1,
+                "description": ""
+            },
+            "height": {
+                "value": 0,
+                "scale": 1,
+                "description": ""
+            },
+            "description": ""
+        },
+        "position": {
+            "x": {
+                "value": 0,
+                "scale": 1,
+                "description": ""
+            },
+            "y": {
+                "value": 0,
+                "scale": 1,
+                "description": ""
+            }
+        },
+        "colorspace": {
+            "fromspace": "",
+            "tospace": ""
+        },
+        "burn_ins": [
+            {
+                "category": "text",
+                "value": "SAMPLE TEXT",
+                "position": {
+                    "x": {
+                        "value": 0,
+                        "scale": 1,
+                        "description": ""
+                    },
+                    "y": {
+                        "value": 0,
+                        "scale": 1,
+                        "description": ""
+                    }
+                },
+                "size": {
+                    "value": 0,
+                    "scale": 1,
+                    "minimum": 8,
+                    "description": ""
+                },
+                "name": "",
+                "color": {
+                    "value": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ]
+                },
+                "bg": null,
+                "description": ""
+            }
+        ],
+        "description": ""
+    },
+    "sources": [
+        {
+            "resolution": {
+                "width": {
+                    "value": 0,
+                    "scale": 1,
+                    "description": ""
+                },
+                "height": {
+                    "value": 0,
+                    "scale": 1,
+                    "description": ""
+                },
+                "description": ""
+            },
+            "position": {
+                "x": {
+                    "value": 0,
+                    "scale": 1,
+                    "description": ""
+                },
+                "y": {
+                    "value": 0,
+                    "scale": 1,
+                    "description": ""
+                }
+            },
+            "colorspace": {
+                "fromspace": "",
+                "tospace": ""
+            },
+            "burn_ins": null,
+            "description": ""
+        }
+    ],
+    "description": ""
+}

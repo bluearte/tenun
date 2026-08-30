@@ -1,0 +1,17 @@
+[
+    {
+        "resolution": "default",
+        "position": {
+            "x": {
+                "value": 0,
+                "scale": 1
+            },
+            "y": {
+                "value": 0,
+                "scale": 1
+            }
+        },
+        "colorspace": "Linear_sRGB",
+        "burn_ins": "frame"
+    }
+]

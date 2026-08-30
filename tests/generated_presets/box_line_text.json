@@ -1,0 +1,109 @@
+[
+    {
+        "category": "text",
+        "value": "TEXT",
+        "position": {
+            "x": {
+                "value": 0,
+                "scale": 1,
+                "description": ""
+            },
+            "y": {
+                "value": 0,
+                "scale": 1,
+                "description": ""
+            }
+        },
+        "size": {
+            "value": 0,
+            "scale": 1,
+            "minimum": 8,
+            "description": ""
+        },
+        "name": "",
+        "color": {
+            "value": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        "bg": null,
+        "description": ""
+    },
+    {
+        "category": "box",
+        "start": {
+            "x": {
+                "value": 0,
+                "scale": 1,
+                "description": ""
+            },
+            "y": {
+                "value": 0,
+                "scale": 1,
+                "description": ""
+            }
+        },
+        "end": {
+            "x": {
+                "value": 0,
+                "scale": 1,
+                "description": ""
+            },
+            "y": {
+                "value": 0,
+                "scale": 1,
+                "description": ""
+            }
+        },
+        "color": {
+            "value": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        "description": ""
+    },
+    {
+        "category": "box",
+        "start": {
+            "x": {
+                "value": 0,
+                "scale": 1,
+                "description": ""
+            },
+            "y": {
+                "value": 0,
+                "scale": 1,
+                "description": ""
+            }
+        },
+        "end": {
+            "x": {
+                "value": 0,
+                "scale": 1,
+                "description": ""
+            },
+            "y": {
+                "value": 0,
+                "scale": 1,
+                "description": ""
+            }
+        },
+        "color": {
+            "value": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        "thickness": 2,
+        "fill": true,
+        "description": ""
+    }
+]

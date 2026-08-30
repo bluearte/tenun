@@ -1,0 +1,19 @@
+{
+    "resolution": {
+        "width": {
+            "value": 0,
+            "scale": 1,
+            "description": "if value is 0, it will use image native resolution."
+        },
+        "height": {
+            "value": 0,
+            "scale": 1,
+            "description": "if value is 0, it will use image native resolution. "
+        }
+    },
+    "colorspace": {
+        "fromspace": "",
+        "tospace": "sRGB"
+    },
+    "burn_ins": null
+  }

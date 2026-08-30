@@ -1,0 +1,71 @@
+{
+    "target": {
+        "resolution": {
+            "width": {
+                "value": 0,
+                "scale": 1,
+                "description": ""
+            },
+            "height": {
+                "value": 0,
+                "scale": 1,
+                "description": ""
+            },
+            "description": ""
+        },
+        "position": {
+            "x": {
+                "value": 0,
+                "scale": 1,
+                "description": ""
+            },
+            "y": {
+                "value": 0,
+                "scale": 1,
+                "description": ""
+            }
+        },
+        "colorspace": {
+            "fromspace": "",
+            "tospace": ""
+        },
+        "burn_ins": [],
+        "description": ""
+    },
+    "sources": [
+        {
+            "resolution": {
+                "width": {
+                    "value": 0,
+                    "scale": 1,
+                    "description": ""
+                },
+                "height": {
+                    "value": 0,
+                    "scale": 1,
+                    "description": ""
+                },
+                "description": ""
+            },
+            "position": {
+                "x": {
+                    "value": 0,
+                    "scale": 1,
+                    "description": ""
+                },
+                "y": {
+                    "value": 0,
+                    "scale": 1,
+                    "description": ""
+                }
+            },
+            "colorspace": {
+                "fromspace": "",
+                "tospace": ""
+            },
+            "burn_ins": [],
+            "description": ""
+        }
+    ],
+    "description": ""
+}

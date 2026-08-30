@@ -1,0 +1,12 @@
+{
+    "width": {
+        "value": 1280,
+        "scale": 1,
+        "description": "if value is 0, it will use image native resolution."
+    },
+    "height": {
+        "value": 720,
+        "scale": 1,
+        "description": "if value is 0, it will use image native resolution. "
+    }
+}

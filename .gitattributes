@@ -1,0 +1,8 @@
+*.py text eol=lf
+*.json text eol=lf
+
+.python-version eol=lf
+*.toml eol=lf
+
+.gitattributes text eol=lf
+.gitignore text eol=lf
