@@ -26,8 +26,8 @@
             }
         },
         "colorspace": {
-            "fromspace": "",
-            "tospace": ""
+            "from_space": "",
+            "to_space": ""
         },
         "burn_ins": [],
         "description": ""
@@ -60,8 +60,8 @@
                 }
             },
             "colorspace": {
-                "fromspace": "",
-                "tospace": ""
+                "from_space": "",
+                "to_space": ""
             },
             "burn_ins": [],
             "description": ""

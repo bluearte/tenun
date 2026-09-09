@@ -12,8 +12,8 @@
         }
     },
     "colorspace": {
-        "fromspace": "",
-        "tospace": "sRGB"
+        "from_space": "",
+        "to_space": "sRGB"
     },
     "burn_ins": null
   }

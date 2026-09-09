@@ -21,8 +21,8 @@
             }
         },
         "colorspace": {
-            "fromspace": "",
-            "tospace": ""
+            "from_space": "",
+            "to_space": ""
         },
         "burn_ins": null
     }
